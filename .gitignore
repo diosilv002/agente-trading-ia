@@ -1,0 +1,10 @@
+# Segredos / Secrets — NUNCA publicar
+.env
+
+# Logs (podem conter dados da conta)
+*.log
+
+# Ambiente virtual e cache do Python
+venv/
+__pycache__/
+*.pyc
